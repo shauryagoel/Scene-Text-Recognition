@@ -1,8 +1,6 @@
 # Scene-Text-Recognition
-This repository contains code for scene text recognition
+This repository contains code for scene text recognition. It prints the predicted text in the image using attention mechanism.
 
-![aster](https://user-images.githubusercontent.com/23395833/76331195-cf802900-6314-11ea-936f-5efaa8c00003.png)
+![aster](https://user-images.githubusercontent.com/23395833/76331587-59c88d00-6315-11ea-9e10-f64ec2da2a05.png)
 
-Download the model from https://drive.google.com/open?id=1whz0U_SxkFRtOnh7NRap2v489-QbWoQ4
-
-
+Download the model from [here](https://drive.google.com/open?id=1whz0U_SxkFRtOnh7NRap2v489-QbWoQ4).
